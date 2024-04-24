@@ -1,0 +1,63 @@
+HGNC ID (gene),Approved symbol,Approved name,Previous symbols,Chromosome,Group
+HGNC:34362,RNA5S1,"RNA, 5S ribosomal 1",RN5S1,1q42.13,5S ribosomal RNAs
+HGNC:34363,RNA5S2,"RNA, 5S ribosomal 2",RN5S2,1q42.13,5S ribosomal RNAs
+HGNC:34364,RNA5S3,"RNA, 5S ribosomal 3",RN5S3,1q42.13,5S ribosomal RNAs
+HGNC:34365,RNA5S4,"RNA, 5S ribosomal 4",RN5S4,1q42.13,5S ribosomal RNAs
+HGNC:34366,RNA5S5,"RNA, 5S ribosomal 5",RN5S5,1q42.13,5S ribosomal RNAs
+HGNC:34367,RNA5S6,"RNA, 5S ribosomal 6",RN5S6,1q42.13,5S ribosomal RNAs
+HGNC:34368,RNA5S7,"RNA, 5S ribosomal 7",RN5S7,1q42.13,5S ribosomal RNAs
+HGNC:34369,RNA5S8,"RNA, 5S ribosomal 8",RN5S8,1q42.13,5S ribosomal RNAs
+HGNC:34370,RNA5S9,"RNA, 5S ribosomal 9",RN5S9,1q42.13,5S ribosomal RNAs
+HGNC:34371,RNA5S10,"RNA, 5S ribosomal 10",RN5S10,1q42.13,5S ribosomal RNAs
+HGNC:34372,RNA5S11,"RNA, 5S ribosomal 11",RN5S11,1q42.13,5S ribosomal RNAs
+HGNC:34373,RNA5S12,"RNA, 5S ribosomal 12",RN5S12,1q42.13,5S ribosomal RNAs
+HGNC:34374,RNA5S13,"RNA, 5S ribosomal 13",RN5S13,1q42.13,5S ribosomal RNAs
+HGNC:34375,RNA5S14,"RNA, 5S ribosomal 14",RN5S14,1q42.13,5S ribosomal RNAs
+HGNC:34376,RNA5S15,"RNA, 5S ribosomal 15",RN5S15,1q42.13,5S ribosomal RNAs
+HGNC:34377,RNA5S16,"RNA, 5S ribosomal 16",RN5S16,1q42.13,5S ribosomal RNAs
+HGNC:34378,RNA5S17,"RNA, 5S ribosomal 17",RN5S17,1q42.13,5S ribosomal RNAs
+HGNC:44278,RNA18S1,"RNA, 18S ribosomal 1",,13p12 not on reference assembly,18S ribosomal RNAs
+HGNC:44279,RNA18S2,"RNA, 18S ribosomal 2",,14p12 not on reference assembly,18S ribosomal RNAs
+HGNC:44280,RNA18S3,"RNA, 18S ribosomal 3",,15p12 not on reference assembly,18S ribosomal RNAs
+HGNC:44281,RNA18S4,"RNA, 18S ribosomal 4",,21p12 not on reference assembly,18S ribosomal RNAs
+HGNC:37657,RNA18S5,"RNA, 18S ribosomal 5",RN18S1,22p12 not on reference assembly,18S ribosomal RNAs
+HGNC:44286,RNA28S1,"RNA, 28S ribosomal 1",,13p12 not on reference assembly,28S ribosomal RNAs
+HGNC:44287,RNA28S2,"RNA, 28S ribosomal 2",,14p12 not on reference assembly,28S ribosomal RNAs
+HGNC:44288,RNA28S3,"RNA, 28S ribosomal 3",,15p12 not on reference assembly,28S ribosomal RNAs
+HGNC:44289,RNA28S4,"RNA, 28S ribosomal 4",,21p12 not on reference assembly,28S ribosomal RNAs
+HGNC:37659,RNA28S5,"RNA, 28S ribosomal 5",RN28S1,22p12 not on reference assembly,28S ribosomal RNAs
+HGNC:44274,RNA45S1,"RNA, 45S pre-ribosomal 1",,13p12 not on reference assembly,45S pre-ribosomal RNAs
+HGNC:44275,RNA45S2,"RNA, 45S pre-ribosomal 2",,14p12 not on reference assembly,45S pre-ribosomal RNAs
+HGNC:44276,RNA45S3,"RNA, 45S pre-ribosomal 3",,15p12 not on reference assembly,45S pre-ribosomal RNAs
+HGNC:44277,RNA45S4,"RNA, 45S pre-ribosomal 4",,21p12 not on reference assembly,45S pre-ribosomal RNAs
+HGNC:44273,RNA45S5,"RNA, 45S pre-ribosomal 5",,22p12 not on reference assembly,45S pre-ribosomal RNAs
+HGNC:44282,RNA5-8S1,"RNA, 5.8S ribosomal 1",,13p12 not on reference assembly,5.8S ribosomal RNAs
+HGNC:44283,RNA5-8S2,"RNA, 5.8S ribosomal 2",,14p12 not on reference assembly,5.8S ribosomal RNAs
+HGNC:44284,RNA5-8S3,"RNA, 5.8S ribosomal 3",,15p12 not on reference assembly,5.8S ribosomal RNAs
+HGNC:44285,RNA5-8S4,"RNA, 5.8S ribosomal 4",,21p12 not on reference assembly,5.8S ribosomal RNAs
+HGNC:37660,RNA5-8S5,"RNA, 5.8S ribosomal 5",RN5-8S1,22p12 not on reference assembly,5.8S ribosomal RNAs
+HGNC:10082,RNR1,"RNA, ribosomal 45S cluster 1",,13p12 not on reference assembly,Ribosomal 45S RNA clusters
+HGNC:10083,RNR2,"RNA, ribosomal 45S cluster 2",,14p12 not on reference assembly,Ribosomal 45S RNA clusters
+HGNC:10084,RNR3,"RNA, ribosomal 45S cluster 3",,15p12 not on reference assembly,Ribosomal 45S RNA clusters
+HGNC:10085,RNR4,"RNA, ribosomal 45S cluster 4",,21p12 not on reference assembly,Ribosomal 45S RNA clusters
+HGNC:10086,RNR5,"RNA, ribosomal 45S cluster 5",,22p12 not on reference assembly,Ribosomal 45S RNA clusters
+HGNC:53515,RNA18SN1,"RNA, 18S ribosomal N1",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53519,RNA18SN2,"RNA, 18S ribosomal N2",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53523,RNA18SN3,"RNA, 18S ribosomal N3",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53528,RNA18SN4,"RNA, 18S pre-ribosomal N4",,22 unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53531,RNA18SN5,"RNA, 18S ribosomal N5",,unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53516,RNA28SN1,"RNA, 28S ribosomal N1",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53520,RNA28SN2,"RNA, 28S ribosomal N2",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53524,RNA28SN3,"RNA, 28S ribosomal N3",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53527,RNA28SN4,"RNA, 28S ribosomal N4",,22 unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53532,RNA28SN5,"RNA, 28S ribosomal N5",,unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53514,RNA45SN1,"RNA, 45S pre-ribosomal N1",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53518,RNA45SN2,"RNA, 45S pre-ribosomal N2",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53522,RNA45SN3,"RNA, 45S pre-ribosomal N3",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53526,RNA45SN4,"RNA, 45S pre-ribosomal N4",,22 unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53530,RNA45SN5,"RNA, 45S pre-ribosomal N5",,unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53517,RNA5-8SN1,"RNA, 5.8S ribosomal N1",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53521,RNA5-8SN2,"RNA, 5.8S ribosomal N2",RNA5-8N2,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53525,RNA5-8SN3,"RNA, 5.8S ribosomal N3",,21p11.2,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53529,RNA5-8SN4,"RNA, 5.8S ribosomal N4",,22 unplaced,Ribosomal 45S rRNA genes outside of clusters
+HGNC:53533,RNA5-8SN5,"RNA, 5.8S ribosomal N5",,unplaced,Ribosomal 45S rRNA genes outside of clusters
